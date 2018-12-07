@@ -1,0 +1,17 @@
+=========
+mumblebot
+=========
+
+Mumble bot is a simple bot to start an stop a Mumble Server
+Besides it allow or deny access to port 64738
+
+For more information, please visit my website:
+http://www.atareao.es
+
+============
+Requirements
+============
+
+Required dependencies:
+
+    python3-requests
